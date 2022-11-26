@@ -1,6 +1,6 @@
 //program to find out whether a given integer is present in an array or not.
 import java.util.*;
-public class Q2 
+public class ArrayQ2 
 {
     public static void main(String[] args) 
     {
