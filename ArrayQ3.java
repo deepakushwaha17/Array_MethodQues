@@ -1,6 +1,6 @@
 //Calculate the average marks from an array containing marks of all students in physics using a for-each loop.
 import java.util.*;
-class Q3
+class ArrayQ3
 {
     public static void main(String[] args) 
     {
