@@ -1,6 +1,6 @@
 //Create an array of 5 floats and calculate their sum.
 import java.util.*;
-class Q1
+class ArrayQ1
 {
     public static void main(String[] args) 
     {
