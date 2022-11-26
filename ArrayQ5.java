@@ -1,6 +1,6 @@
 //Java program to reverse an array.
 import java.util.*;
-public class Q5 
+public class ArrayQ5 
 {
     public static void main(String[] args) 
     {
