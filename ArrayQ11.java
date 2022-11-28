@@ -1,4 +1,4 @@
-//Java Program to print the elements of an array
+//Java Program to print the elements of an array.
 import java.util.*;
 public class ArrayQ11 
 {
@@ -15,7 +15,7 @@ public class ArrayQ11
           arr[i]=sc.nextInt();
       }
       //loop to print the array element
-      System.out.println("Array elements are :");
+      System.out.println("Array elements are : ");
       for(int i=0;i<n;i++)
       {
           System.out.print(arr[i]+" ");
