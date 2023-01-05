@@ -41,7 +41,7 @@ public class ArrayQ26
             {
                 for(k=0;k<n;k++)
                 {
-                    mul[i][j]+=a1[i][k]*a2[i][k];
+                    mul[i][j]+=a1[i][k]*a2[k][j];
                 }
                 
             }
