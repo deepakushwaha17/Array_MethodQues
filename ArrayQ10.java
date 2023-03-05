@@ -22,8 +22,10 @@ public class ArrayQ10
           for(int j=i+1;j<n;j++)
           {
             if(arr[i]==arr[j])
-             System.out.println(arr[i]);
+             System.out.println(arr[i]) ;
           }
+
       }
    } 
 }
+
