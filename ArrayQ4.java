@@ -19,7 +19,7 @@ public class ArrayQ4
             }
         } 
         //to enter a2 matrix element
-        System.out.println("enter the a2 element"); 
+        System.out.println("enter the a2 element:"); 
         for(i=0;i<2;i++)
         {
             for(j=0;j<3;j++)
