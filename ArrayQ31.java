@@ -13,7 +13,7 @@ public class ArrayQ31
       int arr[][] = new int[m][n];
       System.out.println("Enter the array element:");
       //loop to intialize matrix element
-      for(int i=0;i<m;i++)
+      for(int i=0;i<m ;i++)
       {
           for(int j=0;j<n;j++)
           {
