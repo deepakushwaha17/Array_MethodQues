@@ -35,7 +35,7 @@ public class ArrayQ4
                 sum[i][j]=a1[i][j]+a2[i][j];
             }
         } 
-        //to print the sum matrix
+        //to print the sum matrix.
         System.out.println("Sum of a1 and a2 matrix is:");
         for(i=0;i<2;i++)
         {
