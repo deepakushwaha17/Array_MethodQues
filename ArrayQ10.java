@@ -16,7 +16,7 @@ public class ArrayQ10
           arr[i]=sc.nextInt();
       }
       //loop to print duplicte element
-      System.out.println("Duplicate elements of array are: ");
+      System.out.println("Duplicate elements of array are:");
       for(int i=0;i<n;i++)
       {
           for(int j=i+1;j<n;j++)
