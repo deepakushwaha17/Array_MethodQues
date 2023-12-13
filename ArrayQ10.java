@@ -1,5 +1,4 @@
 //Java Program to print the duplicate elements of an array
-
 import java.util.*;
 public class ArrayQ10 
 {
