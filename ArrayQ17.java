@@ -24,4 +24,3 @@ public class ArrayQ17
         System.out.print(sum);
     }   
 }
-
