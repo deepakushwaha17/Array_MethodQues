@@ -1,4 +1,5 @@
 // Find 2nd Smallest Number in an Array
+
 import java.util.*;
 public class ArrayQ22 
 {
