@@ -1,5 +1,4 @@
 //Java Program to sort the elements of an array in descending order
-
 import java.util.*;
 public class ArrayQ19 
 {
