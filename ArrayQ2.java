@@ -1,4 +1,5 @@
 //program to find out whether a given integer is present in an array or not.
+
 import java.util.*;
 public class ArrayQ2 
 {
