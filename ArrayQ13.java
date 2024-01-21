@@ -1,4 +1,5 @@
 //Java Program to print the elements of an array present on even position
+
 import java.util.*;
 public class ArrayQ13 
 {
